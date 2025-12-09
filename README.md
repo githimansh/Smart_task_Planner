@@ -40,7 +40,7 @@ Unit tests using MockMvc & JUnit	Controller + validation testing
 High-Level Component Diagram
 
 Uploaded separately in repo under
-![App Screenshot](architecture.png)
+![App Screenshot](code_flow.jpg)
 
 
 🔁 Flow Summary
